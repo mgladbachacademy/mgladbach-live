@@ -1,4 +1,12 @@
 <head>  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PW3NTZVN5X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PW3NTZVN5X');
+</script>
 <meta charset="utf-8">
 <meta name="robots" content="index, follow">	
 <meta name="googlebot" content="all"/>
@@ -41,6 +49,8 @@
 <link rel="dns-prefetch" href="https://mgladbachacademy.id">
 <link rel="preconnect" href="https://cdnjs.cloudflare.com">
 <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
 <link href="template/img/favicon.ico?<?php echo $anticache; ?>" rel="icon" type="image/ico" />
 
 <link rel="preload" href="template/fonts/N0bU2SZBIuF2PU_0DXR1.woff2" as="font" type="font/woff2" crossorigin>
