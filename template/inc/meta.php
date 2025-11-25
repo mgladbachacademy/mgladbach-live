@@ -5,7 +5,7 @@
 <meta name="googlebot-news" content="index,follow"/>
 <meta name="googlebot-image" content="index,follow"/>
 <meta name="google-site-verification" content=""/>
-<meta content="<?php echo $sitename; ?> – Akademi Sepak Bola Resmi Borussia Mönchengladbach" name="author"/>
+<meta content="<?php echo $sitename; ?>" name="author"/>
 <meta content="id" name="language"/>
 <meta content="id" name="geo.country"/>
 <meta content="Indonesia" name="geo.placename"/>
