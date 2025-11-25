@@ -1,7 +1,7 @@
 <?php 
   $lang='id';
   $menu='Success';
-  $template='default';
+  $site_title='custom';
   require ('../template/inc/base.php')
 ?>
 <?php require ($_SERVER['BMG'].'template/inc/meta.php')?>

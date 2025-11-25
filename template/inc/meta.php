@@ -1,17 +1,26 @@
 <head>  
 <meta charset="utf-8">
-<meta name="robots" content="noindex, follow">				
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+<meta name="robots" content="index, follow">	
+<meta name="googlebot" content="all"/>
+<meta name="googlebot-news" content="index,follow"/>
+<meta name="googlebot-image" content="index,follow"/>
+<meta name="google-site-verification" content=""/>
+<meta content="<?php echo $sitename; ?>" name="author"/>
+<meta content="id" name="language"/>
+<meta content="id" name="geo.country"/>
+<meta content="Indonesia" name="geo.placename"/>
+<meta http-equiv="content-language" content="In-Id"/>
+
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="HandheldFriendly" content="true" />
 <meta name="apple-touch-fullscreen" content="yes" />
-<meta name="description" content="<?php echo $sitename; ?> <?php echo $menu; ?>">
+<meta name="description" content="<?php echo $menu; ?> - <?php echo $sitename; ?>">
 <link rel="preconnect" href="https://mgladbachacademy.id">
 <link rel="dns-prefetch" href="https://mgladbachacademy.id">
 <link rel="preconnect" href="https://cdnjs.cloudflare.com">
 <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
-<title><?php echo $sitename; ?> <?php echo $menu; ?></title>
+<title><?php echo $menu; ?> - <?php echo $sitename; ?></title>
 <link href="template/img/favicon.ico?<?php echo $anticache; ?>" rel="icon" type="image/ico" />
 
 <link rel="preload" href="template/fonts/N0bU2SZBIuF2PU_0DXR1.woff2" as="font" type="font/woff2" crossorigin>
@@ -57,3 +66,6 @@ $("body,html").bind("touchstart touchmove scroll mousedown DOMMouseScroll mousew
 
 </head>
 <body class="lang-id">
+<?php if($site_title == 'default') { ?>
+  <h1 class="hide"><?php echo $menu; ?> - <?php echo $sitename; ?></h1>
+<?php } ?>
