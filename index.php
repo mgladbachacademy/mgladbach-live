@@ -435,7 +435,7 @@
             $topyouth2025_array = array();
             for ($i = 1; $i <= 17; $i++) {
               $topyouth2025_array[] = array(
-                'topyouth2025_title' => "Askot Tangerang Selatan - Foto {$i}",
+                'topyouth2025_title' => "Top Youth - Foto {$i}",
                 'topyouth2025_img'=>"topyouth2025/{$i}.jpg",
                 'topyouth2025_img_small'=>"topyouth2025/{$i}-small.jpg",
               );

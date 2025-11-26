@@ -16,6 +16,40 @@
     <div class="site-container activity-list">
 	
 	  <?php 
+        $gallery_id='gallery12';
+        $gallery_date='2025';
+        $gallery_title='Top Youth';
+        $pg_array = array();
+        for ($i = 1; $i <= 17; $i++) {
+          $pg_array[] = array(
+            'pg_title' => "Top Youth - Foto {$i}",
+            'pg_img' => "topyouth2025/{$i}-small.jpg",
+            'pg_img_ori' => "topyouth2025/{$i}.jpg",
+          );
+        }
+	    require ($_SERVER['BMG'].'template/module/gallery-list.php')
+	  ?>
+	  
+	  
+	
+	  <?php 
+        $gallery_id='gallery11';
+        $gallery_date='2025';
+        $gallery_title='Askot Tangerang Selatan';
+        $pg_array = array();
+        for ($i = 1; $i <= 24; $i++) {
+          $pg_array[] = array(
+            'pg_title' => "Askot Tangerang Selatan - Foto {$i}",
+            'pg_img' => "askot-20251119/{$i}-small.jpg",
+            'pg_img_ori' => "askot-20251119/{$i}.jpg",
+          );
+        }
+	    require ($_SERVER['BMG'].'template/module/gallery-list.php')
+	  ?>
+	
+	
+	
+	  <?php 
         $gallery_id='gallery10';
         $gallery_date='2024';
         $gallery_title='<b>Borussia Academy CAMP</b> - JAKARTA - Day 3 (9 June 2024)';
