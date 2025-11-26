@@ -361,4 +361,9 @@ background:linear-gradient(135deg,  rgb(255 255 255 / 21%) 0%,rgb(255 255 255 / 
   
   
   .vbox-close{padding:var(--size-5)}
+
+
+
+   .section-methodology{background:url(../img/bg-6.webp) no-repeat fixed center var(--color-3); background-size:cover;}
+   .section-methodology-row{background-color:var(--bg-2);}
 }

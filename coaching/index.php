@@ -12,7 +12,7 @@
   
   
   
-  <section class="section-default section-methodology content-center">
+  <section class="section-default section-methodology section-methodology-topdesktop content-center">
     <div class="site-container">
 	
 	  <div class="section-methodology-row section-methodology-right">
@@ -56,6 +56,16 @@
           </div>
         </div>
 	  </div>
+	  
+	</div>
+  </section>
+  
+  
+  
+  
+  
+  <section class="section-default section-methodology  content-center">
+    <div class="site-container">
 	
 	  <div class="section-methodology-row section-methodology-left">
 	    <div class="smr-image">
