@@ -48,7 +48,8 @@ b{color:var(--color-3);}
 .form-box{background-color:var(--bg-2); border-radius:var(--rounded-1);}
 .form-label b{color:var(--color-alert);}
 .form-field{border-color:var(--color-border-form); background-color:transparent; border-radius:var(--rounded-1);}
-.form-icon{background-color:var(--bg-2); border-radius:var(--rounded-1); fill:var(--color-1);}
+.form-icon{background-color:var(--bg-2); border-radius:var(--rounded-1); fill:var(--color-1); transition:var(--transition-default); cursor:pointer}
+.form-icon:hover{fill:var(--color-4);}
 
 .ccr-dummy-frame{border-color:var(--color-border-form); border-radius:4px;}
 .ccr-dummy-frame, .ccr-dummy-frame svg, .ccr-dummy-right{transition:var(--transition-default);}

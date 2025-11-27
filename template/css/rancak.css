@@ -38,9 +38,11 @@ display:flex; text-align:center; align-items:center; justify-content:center;}
 .form-field{padding:var(--size-3) var(--size-4); border:1px solid; width:100%; line-height:150%;}
 textarea.form-field{min-height:144px;}
 .form-icon{position:absolute; top:1px; right:1px; height:calc(100% - 2px); padding:0 var(--size-4);}
-.form-search .form-field, .form-select .form-field{padding-right:var(--size-6);}
-.form-search .form-icon, .form-select .form-field{z-index:1000;}
+.form-search .form-field, .form-select .form-field, .form-password .form-field{padding-right:var(--size-6);}
+.form-search .form-icon, .form-select .form-field, .form-password .form-field{z-index:1000;}
 .form-select .form-field{position:relative;}
+.form-password .form-icon.show-password .svgicon-pass-hide,
+.form-password .form-icon.hide-password .svgicon-pass-show{display:none;}
 
 .custom-checkbox-radiobutton{position:relative; padding:var(--size-2) 0;}
 .ccr-real{position:absolute; z-index:1000; top:0; left:0; width:100%; height:100%; opacity:0; cursor:pointer;}
