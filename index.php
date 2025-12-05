@@ -42,7 +42,7 @@
               -->
               <span class="text-id">
                 <p>Kami bekerja sama dengan klub Bundesliga ternama Borussia Mönchengladbach, yang dikenal dengan program pembinaan pemain mudanya. Kini, kami menghadirkan pengalaman sepak bola khas Jerman di Jakarta dan sekitarnya.</p>
-                <p>Program ini terbuka untuk anak usia 3–16 tahun, baik laki-laki maupun perempuan, di semua tingkat kemampuan, dari pemula hingga berpengalaman.</p>
+                <p>program ini terbuka untuk anak usia 3–16 tahun, baik laki-laki maupun perempuan, di semua tingkat kemampuan, dari pemula hingga berpengalaman.</p>
                 <p>Latihan berlangsung di Deutsche Schule Jakarta (DSJ), BSD City, dengan lapangan rumput alami dan fasilitas bertaraf internasional.</p>
                 <p>Berlatihlah dengan gaya Borussia Foals dan ikuti jejak bintang-bintang seperti Lothar Matthäus dan Marc-André ter Stegen.</p>
               </span>
