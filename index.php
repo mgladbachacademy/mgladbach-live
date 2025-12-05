@@ -22,7 +22,7 @@
               if (window.videoLoaded) return;
               window.videoLoaded = true;
 
-              $('.scb-bg').append('<video autoplay loop muted playsinline><source src="template/img/cover.mp4" type="video/mp4"></video>');
+              $('.scb-bg').append('<video autoplay loop muted playsinline preload="none"><source src="template/img/cover.mp4" type="video/mp4"></video>');
               $('.scb-bg video').hide().fadeIn(1000);
 			});
 		  </script>
