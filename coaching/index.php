@@ -29,7 +29,7 @@
               <span class="text-de">Trainingsmethodik</span>
 			</h2>
 			<p>
-              <span class="text-id"><b>Borussia M’Gladbach Academy Indonesia</b> bekerja sama dengan klub Bundesliga Jerman Borussia Mönchengladbach, yang dikenal secara internasional atas program pengembangan pemain mudanya yang luar biasa.</span>
+              <span class="text-id"><b>borussia M’Gladbach Academy Indonesia</b> bekerja sama dengan klub Bundesliga Jerman Borussia Mönchengladbach, yang dikenal secara internasional atas program pengembangan pemain mudanya yang luar biasa.</span>
               <span class="text-en"><b>Borussia M’Gladbach Academy Indonesia</b> proudly collaborates with the German Bundesliga club Borussia Mönchengladbach, internationally renowned for its outstanding youth development programs.</span>
               <span class="text-de">Die <b>Borussia M’Gladbach Academy Indonesia</b> arbeitet in enger Partnerschaft mit dem deutschen Bundesligisten Borussia Mönchengladbach zusammen, der weltweit für seine herausragenden Nachwuchsprogramme bekannt ist.</span>
 			</p>
