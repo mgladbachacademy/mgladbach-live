@@ -7,7 +7,7 @@
 <?php require ($_SERVER['BMG'].'template/inc/meta.php')?>
 <?php require ($_SERVER['BMG'].'template/inc/header.php')?>
 <div class="rancak-foundation">
-  
+ 
   
   
   
