@@ -60,7 +60,7 @@
 <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" as="script">
 <?php if($menu == 'Home') { ?>
   <link rel="preload" href="template/img/bg-1.webp?<?php echo $anticache; ?>" as="image" media="(min-width:1024px)">
-  <link rel="preload" href="template/img/bg-1-mobile-preload.webp?<?php echo $anticache; ?>" as="image">
+  <link rel="preload" href="template/img/bg-1-mobile.webp?<?php echo $anticache; ?>" as="image">
   <link rel="preload" href="template/img/logo-black.webp?<?php echo $anticache; ?>" as="image">
   <link rel="preload" href="template/img/train-like-a-pro.webp?<?php echo $anticache; ?>" as="image">
   <link rel="preload" href="template/js/scrollreveal.js?<?php echo $anticache; ?>" as="script">
