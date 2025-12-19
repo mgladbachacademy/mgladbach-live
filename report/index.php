@@ -26,7 +26,7 @@
     if ($u_input !== '' && $matched_key !== null && isset($users[$matched_key]['pass']) && $users[$matched_key]['pass'] === $p) {
         // store the actual key as in users.php (preserve original case)
         $_SESSION['user'] = $matched_key;
-        header('Location: ' . $matched_key . '/');
+        header('Location: player/' . $matched_key . '/');
         exit;
     } else {
         $error = 'Invalid username or password.';

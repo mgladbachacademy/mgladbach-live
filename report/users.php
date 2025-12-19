@@ -5,7 +5,7 @@ $users = [
     'name' => 'Rafael Frans Usthavia',
     'phone' => '1',
     'team' => 'U17 Borussia',
-    'file' => 'u14-ask17-Rafael_Frans_Usthavia-dec25'
+    'file' => 'a'
   ],
   'Ahmad Fayyadh Alfarizi' => [
     'pass' => 'u10-211216',
