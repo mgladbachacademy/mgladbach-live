@@ -61,7 +61,7 @@ $users = [
     'name' => 'Ahmad Khairan',
     'phone' => '6281319977721',
     'team' => 'U18 Fohlen',
-    'file' => 'U16-U18Fohlen-Ahmad_Khairan-dec25'
+    'file' => 'U18-U18Fohlen-Ahmad_Khairan-dec25'
   ],
   'Alarik Amal Parikesit' => [
     'pass' => '161016',
