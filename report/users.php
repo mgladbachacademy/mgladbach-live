@@ -509,7 +509,7 @@ $users = [
     'name' => 'Hudson Bright Darwin',
     'phone' => '6282298881845',
     'team' => 'U8 Borussia',
-    'file' => 'U10-U8Borussia-Hudson_Bright_Darwin-dec25'
+    'file' => 'U8-U8Borussia-Hudson_Bright_Darwin-dec25'
   ],
   'Ian Setiawan' => [
     'pass' => '010912',
@@ -810,7 +810,7 @@ $users = [
     'name' => 'Naufal Widyadhana Pratyakso',
     'phone' => '62817155016',
     'team' => 'U12 Borussia',
-    'file' => 'U14-U12Borussia-Naufal_Widyadhana_Pratyakso-dec25'
+    'file' => 'U12-U12Borussia-Naufal_Widyadhana_Pratyakso-dec25'
   ],
   'Nicholas Kenneth' => [
     'pass' => '260812',
