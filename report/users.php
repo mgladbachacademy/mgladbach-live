@@ -985,7 +985,7 @@ $users = [
     'name' => 'Sean Zachary',
     'phone' => '6281808406080',
     'team' => 'U8 Mönchengladbach',
-    'file' => 'U10-U8Mönchengladbach-Sean_Zachary-dec25'
+    'file' => 'U8-U8Mönchengladbach-Sean_Zachary-dec25'
   ],
   'Sebastian Desch' => [
     'pass' => '280609',
