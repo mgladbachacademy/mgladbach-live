@@ -250,7 +250,7 @@ $users = [
     'name' => 'Brandon Akira Liu',
     'phone' => '6282213001534',
     'team' => 'U10 Fohlen',
-    'file' => 'U12-U10Fohlen-Brandon_Akira_Liu-dec25'
+    'file' => 'U10-U10Fohlen-Brandon_Akira_Liu-dec25'
   ],
   'Brian Paulo Erlan' => [
     'pass' => '030715',
@@ -789,7 +789,7 @@ $users = [
     'name' => 'Muhammad Krishna Harimurti Widiawanto',
     'phone' => '62811910621',
     'team' => 'U16 Mönchengladbach',
-    'file' => 'U18-U16Mönchengladbach-Muhammad_Krishna_Harimurti_Widiawanto-dec25'
+    'file' => 'U16-U16Mönchengladbach-Muhammad_Krishna_Harimurti_Widiawanto-dec25'
   ],
   'Nasywa Zetira Rambe' => [
     'pass' => '170908',
