@@ -64,7 +64,7 @@ $users = [
     'file' => 'U18-U18Fohlen-Ahmad_Khairan-dec25'
   ],
   'Alarik Amal Parikesit' => [
-    'pass' => '161016',
+    'pass' => '151016',
     'name' => 'Alarik Amal Parikesit',
     'phone' => '628118201895',
     'team' => 'U10 Fohlen',
