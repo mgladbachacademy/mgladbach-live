@@ -579,7 +579,7 @@ $users = [
     'name' => 'Jose Keenan',
     'phone' => '6281938566538',
     'team' => 'U14 Mönchengladbach',
-    'file' => 'U14X-U14Mönchengladbach-Jose_Keenan-dec25'
+    'file' => 'U14-U14Mönchengladbach-Jose_Keenan-dec25'
   ],
   'Joshua Macario' => [
     'pass' => '190615',
