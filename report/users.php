@@ -677,7 +677,7 @@ $users = [
     'name' => 'Maliq Gibran',
     'phone' => '6281377111979',
     'team' => 'U16 Borussia',
-    'file' => 'U18-U16Borussia-Maliq_Gibran-dec25'
+    'file' => 'U16-U16Borussia-Maliq_Gibran-dec25'
   ],
   'Marco Nugroho' => [
     'pass' => '280116',
