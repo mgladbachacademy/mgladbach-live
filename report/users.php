@@ -719,7 +719,7 @@ $users = [
     'name' => 'Mawson Izza Labiib',
     'phone' => '6285811356929',
     'team' => 'U12 Borussia',
-    'file' => 'U14-U12Borussia-Mawson_Izza_Labiib-dec25'
+    'file' => 'U12-U12Borussia-Mawson_Izza_Labiib-dec25'
   ],
   'Maxwell Caleb Darwin' => [
     'pass' => '221015',
