@@ -1736,5 +1736,12 @@ $users = [
     'team' => 'U6',
     'file' => 'U6-Zavier_Athayaqavi_Kalandra-dec25'
   ],
+  'Aiden James Aulia' => [
+    'pass' => '270916',
+    'name' => 'Aiden James Aulia',
+    'phone' => '62811988893',
+    'team' => 'U10 Fohlen',
+    'file' => 'U10-U10Fohlen-Aiden_James_Aulia-dec25'
+  ],
 ];
 ?>
