@@ -537,7 +537,7 @@ $users = [
     'name' => 'Jaden Xavier Lim',
     'phone' => '6281284175782',
     'team' => 'U10 Borussia',
-    'file' => 'U12-U10Borussia-Jaden_Xavier_Lim-dec25'
+    'file' => 'U10-U10Borussia-Jaden_Xavier_Lim-dec25'
   ],
   'Jason Gabriel Sompie' => [
     'pass' => '220815',
