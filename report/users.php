@@ -903,12 +903,12 @@ $users = [
     'team' => 'U14 Fohlen',
     'file' => 'U14-U14Fohlen-Rayaka_Ranggaviatmaja-dec25'
   ],
-  'Razan Dilagaviatmaja Yamin' => [
+  'Razan Narayaviatmaja' => [
     'pass' => '010612',
-    'name' => 'Razan Dilagaviatmaja Yamin',
+    'name' => 'Razan Narayaviatmaja',
     'phone' => '6285886706431',
     'team' => 'U14 Fohlen',
-    'file' => 'U14-U14Fohlen-Razan_Dilagaviatmaja_Yamin-dec25'
+    'file' => 'U14-U14Fohlen-Razan_Narayaviatmaja-dec25'
   ],
   'Reinhart Alvaro' => [
     'pass' => '271115',
