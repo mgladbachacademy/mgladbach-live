@@ -2,7 +2,7 @@
   $lang='en';
   $menu='Coach';
   $site_title='default';
-  require ('../../template/inc/base.php');
+  require ('../template/inc/base.php');
 ?>
 <?php require ($_SERVER['BMG'].'template/inc/meta.php')?>
 <?php require ($_SERVER['BMG'].'template/inc/header.php')?>
@@ -20,17 +20,17 @@
 			  .shortcut-box .jotform:after{background-color:#f3f3fe;}
 			</style>
 			<iframe
-			  id="JotFormIFrame-260290770268056"
+			  id="JotFormIFrame-260118437385055"
 			  title="Form"
 			  onload="window.parent.scrollTo(0,0)"
 			  allowtransparency="true"
 			  allow="geolocation; microphone; camera; fullscreen; payment"
-			  src="https://form.jotform.com/260290770268056"
+			  src="https://form.jotform.com/260118437385055"
 			  frameborder="0"
 			  style="min-width:100%;max-width:100%;height:539px;border:none;"
 			>
 			</iframe>
-			<script>window.jotformEmbedHandler("iframe[id='JotFormIFrame-260290770268056']", "https://form.jotform.com/")</script>
+			<script>window.jotformEmbedHandler("iframe[id='JotFormIFrame-260118437385055']", "https://form.jotform.com/")</script>
 		  </div>
       </div>
     </div>
