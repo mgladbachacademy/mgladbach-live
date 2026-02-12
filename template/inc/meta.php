@@ -61,7 +61,7 @@
 <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" as="script">
 <?php if($menu == 'Home') { ?>
   <link rel="preload" href="template/img/bg-1.webp?<?php echo $anticache; ?>" as="image" media="(min-width:1024px)">
-  <link rel="preload" href="template/img/bg-1-mobile.webp?<?php echo $anticache; ?>" as="image">
+  <link rel="preload" href="template/img/bg-1-mobile-preload.webp?<?php echo $anticache; ?>" as="image">
   <link rel="preload" href="template/img/logo-black.webp?<?php echo $anticache; ?>" as="image">
   <link rel="preload" href="template/img/train-like-a-pro.webp?<?php echo $anticache; ?>" as="image">
   <link rel="preload" href="template/js/scrollreveal.js?<?php echo $anticache; ?>" as="script">
@@ -102,9 +102,13 @@ $("body,html").bind("touchstart touchmove scroll mousedown DOMMouseScroll mousew
   <link rel="preload" href="template/css/coach.css?<?php echo $anticache; ?>" as="style">
   <link rel="stylesheet" type="text/css" href="template/css/coach.css?<?php echo $anticache; ?>"/>
 <?php } ?>
+<?php if($menu == 'Bali7') { ?>
+  <link rel="preload" href="template/css/bali7.css?<?php echo $anticache; ?>" as="style">
+  <link rel="stylesheet" type="text/css" href="template/css/bali7.css?<?php echo $anticache; ?>"/>
+<?php } ?>
 
 </head>
-<body class="lang-id">
+<body class="lang-<?php echo $lang;?>">
 <?php if($site_title == 'default') { ?>
   <h1 class="hide"><?php echo $menu; ?> - <?php echo $sitename; ?> – Akademi Sepak Bola Resmi Borussia Mönchengladbach</h1>
 <?php } ?>
